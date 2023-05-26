@@ -1,2 +1,2 @@
-# my-portfolio
-I develop this portfolio website using html Css  Javascript. To see the website visit.
+# my-resume project
+I develop this basic resume project using html Css To see my code.
